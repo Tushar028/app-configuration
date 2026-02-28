@@ -2,4 +2,4 @@ build:
   id: 101021
   version: 1.2.3
   name: "Dev-GIT-Production-Build"
-  type: "GIT Development Build"
+  type: "Update GIT Development Build"
